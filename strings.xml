@@ -1,0 +1,1 @@
+<resources><string name="app_name">Attention Monitor</string><string name="service_description">With your permission, records foreground app changes and accessibility scroll events for Facebook, YouTube, and Instagram in Chrome. Stores timestamps only on this device; does not record typed text, page content, or URLs.</string></resources>
